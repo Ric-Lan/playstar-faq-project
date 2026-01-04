@@ -1,2 +1,2 @@
-# playstar-faq-project
+# playstar-faq-system
 PS FAQ
